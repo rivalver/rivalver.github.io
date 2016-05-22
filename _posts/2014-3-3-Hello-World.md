@@ -61,10 +61,10 @@ UUID=0AC4D607C4D5F543 /media/NASDRIVE ntfs-3g uid=1000,gid=1000,umask=007 0 0
 Reboot
 sudo reboot
 
-http://www.techjawab.com/2013/06/how-to-setup-mount-auto-mount-usb-hard.html
+[how to setup automount](http://www.techjawab.com/2013/06/how-to-setup-mount-auto-mount-usb-hard.html)
 
 ### Samba
-http://raspberrywebserver.com/serveradmin/share-your-raspberry-pis-files-and-folders-across-a-network.html
+[configure samba](http://raspberrywebserver.com/serveradmin/share-your-raspberry-pis-files-and-folders-across-a-network.html)
 
 {% highlight php linenos %}
  <?php
