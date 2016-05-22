@@ -14,7 +14,6 @@ Next you can update your site name, avatar and other options using the _config.y
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-
 # Raspberry pi 2 model b
 
 ## First steps
@@ -31,7 +30,7 @@ Note down the value of the UUID --> 0AC4D607C4D5F543
 
 - Step 2.
 Create a location for mount point:
-sudo mkdir /media/NASDRIVE
+<kbd>sudo mkdir /media/NASDRIVE</kbd>
 
 Give proper permission:
 sudo chmod 775 /media/NASDRIVE
