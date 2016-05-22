@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Raspberry pi 2 model b"
+title: Raspberry pi 2 model b
 categories: 
   - test
   - raspberry
@@ -67,9 +67,7 @@ http://www.techjawab.com/2013/06/how-to-setup-mount-auto-mount-usb-hard.html
 http://raspberrywebserver.com/serveradmin/share-your-raspberry-pis-files-and-folders-across-a-network.html
 
 {% highlight php linenos %}
-<?php
-echo 'test';
-?>
+ <?php
+ 	echo 'test';
+ ?>
 {% endhighlight %}
-
-
