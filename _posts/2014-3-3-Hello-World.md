@@ -6,17 +6,18 @@ categories:
   - another
 published: true
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 ---
 layout: post
 title: "Raspberry pi 2 model b"
 tags: raspberry
 categories: raspberry
 ---
+
+Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+
 # Raspberry pi 2 model b
 
 ## First steps
